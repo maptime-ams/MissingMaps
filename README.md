@@ -5,6 +5,8 @@
 
 Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Many of the places where these disasters occur are literally 'missing' from any map and first responders lack the information to make valuable decisions regarding relief efforts. Missing Maps is an open, collaborative project in which you can help to map areas where humanitarian organisations are trying to meet the needs of vulnerable people.
 
+http://www.missingmaps.org/
+
 ![img](img/missingmaps.png)
 
 ## Beginners
@@ -26,6 +28,7 @@ Interesting links/tutorials:
 * https://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data
 * https://josm.openstreetmap.de/
 * http://learnosm.org/en/josm/
+* https://docs.google.com/presentation/d/1qSlh5LVUE8H0cvmUrzDIMigyKmtgA-j6aTpUtzdrhFc/edit#slide=id.g1344591aa7_0_69
 
 
 ### Detailed Program
