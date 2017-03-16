@@ -1,4 +1,5 @@
 # Missing Maps Mapathon & Validation Session
+# Wednesday, April 12, 2017 @ Waag Society, Nieuwmarkt 4 Amsterdam
 
 ## Putting the World's Vulnerable People on the Map.
 
